@@ -1,0 +1,14 @@
+Priya:x:100:210:MAC OS USER:/user/home:/bin/bash
+Avani:x:101:220:Oracle user:/user/home:/bin/bash
+Aviral:x:102:200:Linux user:/user/home:/bin/bash
+Orison:x:103:200:Windows user:/user/home:/bin/bash
+Madhu:x:104:200:windows-user:/user/home:/bin/bash
+Basant:x:209:310:linux and mac user:/user/home:/bin/bash
+Vasant:x:150:250:mac:/user/home:/bin/bash
+kavya:x:108:200:pjfor:/user/home:/bin/bash
+Deepika:x:107:200:linux user:/user/home:/bin/bash
+priya:x:105:200:linux:/user/home:/bin/bash
+fnor:x:104:200:enidoodj:/user/home:/bin/bash
+Aryan:x:112:150:Linux-OS:/user/home:/bin/bash
+Priya:x:110:180:Linux:/user/home:/bin/bash
+Mehak:x:110:125:Hello:/user/home:/bin/bash

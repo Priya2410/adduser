@@ -36,7 +36,7 @@ int main(int argc, char *argv[])  //here argc represents the number of inputs on
     }
 if(argc>8)
 {
-strcpy(expiry_date,agrv[10]);
+strcpy(expiry_date,argv[10]);
 }
 else
 {
